@@ -5,10 +5,13 @@ pipeline {
     stages{
 
         stage('Gitcheckout'){
-
+               git branch: 'main', url: 'https://github.com/Maddalarajesh/demo-analysis.git'
             steps {
-                
+             
             }
         }
+
+
+
     }
 }
