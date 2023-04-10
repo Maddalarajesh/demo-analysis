@@ -1,0 +1,2 @@
+# demo-analysis
+allow
